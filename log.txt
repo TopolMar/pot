@@ -1,0 +1,29 @@
+commit c218edeb5f4ed25c8cac9ce2f443fd35f74ceda7
+Author: Mariia Topol <m.topol.22@abdn.ac.uk>
+Date:   Fri Dec 2 21:13:04 2022 +0000
+
+    Added read me file and toast
+
+commit fece6ead05ef383671f26c26a2bf815564b3df37
+Author: Mariia Topol <m.topol.22@abdn.ac.uk>
+Date:   Fri Dec 2 19:43:33 2022 +0000
+
+    cosmetix changes +disconect notification
+
+commit 9dee23fa402048b42f6f2844f18837053a652027
+Author: Mariia Topol <m.topol.22@abdn.ac.uk>
+Date:   Thu Dec 1 22:37:14 2022 +0000
+
+    Added code written before
+
+commit 9f7caeee32777581abb62f06ad6ff3f410e64c17
+Author: Mariia Topol <m.topol.22@abdn.ac.uk>
+Date:   Thu Dec 1 22:29:54 2022 +0000
+
+    previous one decided to die so im here
+
+commit 0dea55892d3d41163c482d12bbe064ca9f88a232
+Author: TopolMar <114315268+TopolMar@users.noreply.github.com>
+Date:   Mon Nov 21 16:56:02 2022 +0000
+
+    Initial commit

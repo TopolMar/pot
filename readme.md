@@ -26,10 +26,12 @@ https://docs.codio.com/develop/develop/ide/editing/connect-github-codio.html
 ##### Design discussed 
 1 side navigation changed in color to a nice green and spread to all windows.
 
-2, a lower fixed navigation bar of the same color is created on the about page
+2 a lower fixed navigation bar of the same color is created on the about page
 
 3 cases alternate in color
 
 4 messages in the chat are separated from each other and each is green
 
 5 on the home page, the cases in the columns are separated from each other and have a color.
+
+6 Home page have modal, about page have progress bar
