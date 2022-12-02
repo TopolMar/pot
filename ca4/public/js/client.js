@@ -11,8 +11,8 @@ const newUserConnected = function (data) {
     
 
     //give the user a random unique id
-    id = Math.floor(Math.random() * 1000000);
-    userName = 'user-' +id;
+    id = Math.floor(Math.random() * 100);
+    userName = 'Sunshine-' +id;
     //console.log(typeof(userName));   
     
 
